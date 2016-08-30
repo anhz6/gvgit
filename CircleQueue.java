@@ -9,7 +9,7 @@ import com.beans.ABData;
 /**
  * 队列，作为接收数据的缓存
  * 
- * @author xzh@bnc.com.cn
+ * @author huahello@126.com
  *
  */
 public class CircleQueue {
